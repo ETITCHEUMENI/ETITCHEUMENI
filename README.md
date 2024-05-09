@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in "Methodology and Biostatistics"
 
-- 🌱 I learned " Biostatistics, Clinical Research, Epidemiology"
+- 🌱 I'm learned " Biostatistics, Clinical Research, Epidemiology"
 
 - 💞️ I’m looking to collaborate on " Biostatistics" 
 
