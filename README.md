@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Etienne TCHEUMENI
 
-- 👀 I’m interested in "Methodologist and Biostatistician"
+- 👀 I’m "Methodologist and Biostatistician"
 
 - 🌱 I'm learned " Biostatistics, Clinical Research, Epidemiology"
 
