@@ -1,5 +1,11 @@
+
+![from_url](https://media.istockphoto.com/id/1158423079/vector/development-programming-mobile-application-software-create-and-optimization-layout-interface.jpg?s=612x612&w=0&k=20&c=nRbGike2TTVp4CcZqdagrH7uHsA6k3FCR12IJgwdDc0=)
+
 <h1 align="center">Hi 👋, I'm Etienne TCHEUMENI</h1>
-<h3 align="center">A passionate Methodology and Biostatistics</h3>
+<h3 align="center">A digital health enthusiast</h3>
+
+<img align="right" alt="Codage" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etitcheumeni&label=Profile%20views&color=0e75b6&style=flat" alt="etitcheumeni" /> </p>
 
