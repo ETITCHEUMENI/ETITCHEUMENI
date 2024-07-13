@@ -1,5 +1,5 @@
 
-![from_url](https://media.istockphoto.com/id/1158423079/vector/development-programming-mobile-application-software-create-and-optimization-layout-interface.jpg?s=612x612&w=0&k=20&c=nRbGike2TTVp4CcZqdagrH7uHsA6k3FCR12IJgwdDc0=)
+![from_url](https://static.vecteezy.com/system/resources/previews/000/829/812/non_2x/binary-code-banner-vector.jpg)
 
 <h1 align="center">Hi 👋, I'm Etienne TCHEUMENI</h1>
 <h3 align="center">A digital health enthusiast</h3>
